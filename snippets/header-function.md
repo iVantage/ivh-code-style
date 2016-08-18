@@ -29,7 +29,7 @@ e.g.
  * @param {Object|Array} foo The foo to build from 
  * @return {Object} The bar of foo
  */
-exports.foobar = function(foo) { ... };
+exports.foobar = function(foo) { ... }
 ```
 
 Where appropriate you should use the `@access` tag to distinguish between
