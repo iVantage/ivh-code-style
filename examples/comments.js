@@ -14,9 +14,7 @@ var pop = 'pop';
 
 // ...
 
-// -----------------------------------------------------
 // Also, it's awkward to quickly comment in/out large sections
-// -----------------------------------------------------
 
 var foo, bar;
 
@@ -30,10 +28,8 @@ bar = 'bar';
 
 // ...
 
-// -----------------------------------------------------
 // Older version of the code should be tucked away safely by our version control
 // system. There's no need to save old copies of code in comments.
-// -----------------------------------------------------
 
 // var funOld = function() {
 //   // do some stuff
