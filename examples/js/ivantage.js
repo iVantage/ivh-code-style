@@ -86,7 +86,7 @@ foo = 1 + 2
 foo = bar ? 3 : 4
 
 var funky = function(a, b) {
-  for(var i = 0 i < 3 i++) {
+  for(var i = 0; i < 3; i++) {
     a = a *2
   }
 }
@@ -99,7 +99,7 @@ foo=1+2
 foo = bar?3:4
 
 var funky = function( a,b ){
-  for(var i=0i<3i++){
+  for(var i = 0; i < 3; i++){
     a = a *2
   }
 }
